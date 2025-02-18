@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-👨‍💻 **Student at Zone01**  <br>
+👨‍💻 **Student at Zone01Athens**  <br>
 🎓 Majoring in *"Learning and Developing Myself"* <br>
 🐛 Part-time bug collector, full-time problem solver <br>
 🚀 Currently in a committed relationship with my IDE <br>
