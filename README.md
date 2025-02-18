@@ -9,8 +9,10 @@
 ---
 
 <div align="center">
-  <strong>Aspiring Software Developer</strong>
+  <h1>Aspiring Software Developer</h1>
 </div>
+
+<br>
 
 👨‍💻 **Student at Zone01**  <br>
 🎓 Majoring in *"Learning and Developing Myself"* <br>
