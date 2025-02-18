@@ -26,25 +26,6 @@
    - 💼 Let’s debug the world and build something incredible!  
 </div>
 
-<div align="center">
-  <h2>Skills</h2>
-  <h3>Languages</h3>
-  <ul>
-    <li><strong>Programming</strong>: Go, Python</li>
-    <li><strong>Web</strong>: HTML, CSS, JavaScript</li>
-  </ul>
-  
-  <h3>Tools</h3>
-  <ul>
-    <li>Git, Linux, Docker, VS Code</li>
-  </ul>
-  
-  <h3>Cloud</h3>
-  <ul>
-    <li>Studying AWS Practitioner</li>
-  </ul>
-</div>
-
 <br>
 
 <div align="center">
