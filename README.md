@@ -15,6 +15,7 @@
 
 <br>
 
+<div align="center">
 👨‍💻 **Student at Zone01**  <br>
 🎓 Majoring in *"Learning and Developing Myself"* <br>
 🐛 Part-time bug collector, full-time problem solver <br>
@@ -23,3 +24,4 @@
 ⚡ Fun fact: I like Pineapple Pizza <br>
 🔍 **Open to new opportunities!**  
    - 💼 Let’s debug the world and build something incredible!  
+</div>
