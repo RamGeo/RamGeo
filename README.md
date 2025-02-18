@@ -25,3 +25,8 @@
 🔍 **Open to new opportunities!**  <br>
    - 💼 Let’s debug the world and build something incredible!  
 </div>
+
+<br>
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=RamGeo.RamGeo)
+
