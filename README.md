@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RamGeo&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RamGeo" alt="Profile view counter on GitHub">
 </div>
