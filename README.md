@@ -26,11 +26,6 @@
    - 💼 Let’s debug the world and build something incredible!  
 </div>
 
-## Featured Projects
-- [Project 1](https://github.com/RamGeo/project1): A cool project that does X.
-- [Project 2](https://github.com/RamGeo/project2): A web app built with React and Node.js.
-
-
 <br>
 
 <div align="center">
