@@ -36,7 +36,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=socrates&font=PixelifySans&quoteType=random&bgColor=black&fontColor=red" alt="Quote">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=churchill&font=PixelifySans&quoteType=random&bgColor=black&fontColor=white" alt="Quote">
 </div>
 
 <div align="center">
