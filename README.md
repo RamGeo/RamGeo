@@ -28,6 +28,7 @@
 
 <br>
 
-https://img.shields.io/github/profile-views/RamGeo?style=social
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RamGeo)
+
 
 
