@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamGeo&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
-<br>
+
 
 <div align="center">
   <h2>Random Quote</h2>
