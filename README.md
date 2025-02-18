@@ -8,11 +8,11 @@
 
 **Aspiring Software Developer**
 
-👨‍💻 **Student at Zone01**  
-🎓 Majoring in *"Learning and Developing Myself"* 
-🐛 Part-time bug collector, full-time problem solver  
-🚀 Currently in a committed relationship with my IDE
-😄 Pronouns: She/Her
-⚡ Fun fact: I like Pineapple Pizza
+👨‍💻 **Student at Zone01**  <br>
+🎓 Majoring in *"Learning and Developing Myself"* <br>
+🐛 Part-time bug collector, full-time problem solver <br>
+🚀 Currently in a committed relationship with my IDE <br>
+😄 Pronouns: She/Her <br>
+⚡ Fun fact: I like Pineapple Pizza <br>
 🔍 **Open to new opportunities!**  
    - 💼 Let’s debug the world and build something incredible!  
