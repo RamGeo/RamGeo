@@ -33,17 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamGeo&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
-
-<div align="center">
-  <h2>Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=RamGeo&theme=onedark" alt="Trophies">
-</div>
-
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=RamGeo&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
 <br>
 
 <div align="center">
