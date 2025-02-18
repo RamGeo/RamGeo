@@ -22,6 +22,6 @@
 🚀 Currently in a committed relationship with my IDE <br>
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I like Pineapple Pizza <br>
-🔍 **Open to new opportunities!**  
+🔍 **Open to new opportunities!**  <br>
    - 💼 Let’s debug the world and build something incredible!  
 </div>
