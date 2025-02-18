@@ -28,6 +28,6 @@
 
 <br>
 
-![Profile Views](https://img.shields.io/github/profile-views/RamGeo?style=social)
+https://img.shields.io/github/profile-views/RamGeo?style=social
 
 
