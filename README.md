@@ -39,7 +39,7 @@
   <h2>For Fun</h2>
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=onedark&animation=default&layout=default&font=PixelifySans&quoteType=random&bgColor=black&fontColor=white&borderColor=black" alt="Quote">
 </div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RamGeo&color=green" alt="Profile view counter on GitHub">
 </div>
