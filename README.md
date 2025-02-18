@@ -41,9 +41,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamGeo" alt="Profile view counter on GitHub">
+  <img src="https://komarev.com/ghpvc/?username=RamGeo&color=green" alt="Profile view counter on GitHub">
 </div>
-
 
 
 
