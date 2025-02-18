@@ -28,6 +28,6 @@
 
 <br>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=RamGeo.RamGeo)
+![Profile Views](https://img.shields.io/github/profile-views/RamGeo?style=social)
 
 
