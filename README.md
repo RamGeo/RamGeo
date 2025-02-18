@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am RamGeo 👋
+
+![Moving Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21la2ZzeHIwZThodmo0cmthNWRrNnRoam9lNzJzMm9xMm9weWJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+
+---
+
+**Aspiring Software Developer**
 
 <!--
 **RamGeo/RamGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
