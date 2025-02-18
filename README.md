@@ -36,6 +36,11 @@
 <br>
 
 <div align="center">
+  <h2>Random Quote</h2>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark" alt="Random Quote">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=RamGeo" alt="Profile view counter on GitHub">
 </div>
 
