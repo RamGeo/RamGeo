@@ -6,7 +6,9 @@
 
 ---
 
-**Aspiring Software Developer**
+<div align="center">
+  <strong>Aspiring Software Developer</strong>
+</div>
 
 👨‍💻 **Student at Zone01**  <br>
 🎓 Majoring in *"Learning and Developing Myself"* <br>
