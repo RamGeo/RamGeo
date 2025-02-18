@@ -8,20 +8,11 @@
 
 **Aspiring Software Developer**
 
-- 🔭 I’m currently working on ..
-
-
-<!--
-**RamGeo/RamGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Student at Zone01**  
+🎓 Majoring in *"Learning and Developing Myself"* 
+🐛 Part-time bug collector, full-time problem solver  
+🚀 Currently in a committed relationship with my IDE
+😄 Pronouns: She/Her
+⚡ Fun fact: I like Pineapple Pizza
+🔍 **Open to new opportunities!**  
+   - 💼 Let’s debug the world and build something incredible!  
