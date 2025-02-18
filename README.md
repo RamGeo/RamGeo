@@ -26,22 +26,42 @@
    - 💼 Let’s debug the world and build something incredible!  
 </div>
 
-## Skills
-- **Languages**: Go, JavaScript, Java, C++
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Linux, Docker, VS Code
-- **Cloud**: AWS
+<div align="center">
+  <h2>Skills</h2>
+  <h3>Languages</h3>
+  <ul>
+    <li><strong>Programming</strong>: Go, Python</li>
+    <li><strong>Web</strong>: HTML, CSS, JavaScript</li>
+  </ul>
+  
+  <h3>Tools</h3>
+  <ul>
+    <li>Git, Linux, Docker, VS Code</li>
+  </ul>
+  
+  <h3>Cloud</h3>
+  <ul>
+    <li>Studying AWS Practitioner</li>
+  </ul>
+</div>
 
 <br>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamGeo&show_icons=true&theme=radical)
+<div align="center">
+  <h2>Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamGeo&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamGeo&layout=compact&theme=radical)
 
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=RamGeo&theme=onedark)
+<div align="center">
+  <h2>Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=RamGeo&theme=onedark" alt="Trophies">
+</div>
+
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamGeo&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RamGeo" alt="Profile view counter on GitHub">
