@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://warpdoor.com/content/images/2020/05/ezgif-3-83c95d3d11cd.gif" alt="Moving Image" width="80%">
+  <img src="https://warpdoor.com/content/images/2020/05/ezgif-3-83c95d3d11cd.gif" alt="Moving Image" width="60%">
 </div>
 
 
