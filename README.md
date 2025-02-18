@@ -28,8 +28,9 @@
 
 <br>
 
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RamGeo)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RamGeo" alt="Profile view counter on GitHub">
+</div>
 
 
 
