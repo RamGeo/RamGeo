@@ -36,7 +36,7 @@
 
 
 <div align="center">
-  
+  <h2>For Fun!</h2>
   <img src="https://readme-jokes.vercel.app/api" alt="Random Quote">
 </div>
 
