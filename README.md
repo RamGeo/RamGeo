@@ -37,7 +37,7 @@
 
 <div align="center">
   <h2>Random Quote</h2>
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark" alt="Random Quote">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Quote">
 </div>
 
 <div align="center">
