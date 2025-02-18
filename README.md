@@ -36,8 +36,7 @@
 
 
 <div align="center">
-  <h2>For Fun!</h2>
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Quote">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=socrates&font=PixelifySans&quoteType=random&bgColor=black&fontColor=red" alt="Quote">
 </div>
 
 <div align="center">
